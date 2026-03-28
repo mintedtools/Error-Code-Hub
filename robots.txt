@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://mintedtools.github.io/Error-Code-Hub/sitemap.xml
